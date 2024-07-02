@@ -23,7 +23,7 @@
 Clone the repository:
 
 ```sh
-git https://github.com/soyedeji/assignment_4_php_windows.git
+git clone https://github.com/soyedeji/assignment_4_php_windows.git
 ```
 
 
